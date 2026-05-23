@@ -1,3 +1,6 @@
+<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/b16f29bf-0922-44a5-be26-28a98c1be0f6" />
+
+
 # Fufas Markets
 
 A personal market intelligence dashboard for tracking cryptocurrency and stocks in real-time. Built with Laravel, Inertia.js, React, and TypeScript.
