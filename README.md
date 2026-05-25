@@ -85,7 +85,7 @@ A personal market intelligence dashboard for tracking cryptocurrency and stocks 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fufas-markets.git
+git clone https://github.com/shootcannon/StockWebApps
 cd fufas-markets
 ```
 
