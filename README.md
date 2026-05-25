@@ -86,7 +86,7 @@ A personal market intelligence dashboard for tracking cryptocurrency and stocks 
 
 ```bash
 git clone https://github.com/shootcannon/StockWebApps
-cd fufas-markets
+cd StockWebApps
 ```
 
 ### 2. Install PHP dependencies
